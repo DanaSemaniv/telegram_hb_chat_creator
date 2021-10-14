@@ -1,4 +1,4 @@
-##Simple script that creates new chat and sends greeting message
+## Simple script that creates new chat and sends greeting message
 
 ### Installation
 - git clone repo
